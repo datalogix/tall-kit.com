@@ -1,7 +1,7 @@
 <?php
 
 return [
-    'baseUrl' => 'https://tall-kit.github.io',
+    'baseUrl' => 'https://tall-kit.netlify.app',
     'production' => false,
 
     // DocSearch credentials
